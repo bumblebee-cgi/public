@@ -1,4 +1,4 @@
-# Site institucional — Bee Operações Inline
+# Site institucional — Bee Operações Online
 
 ## Descrição
 Página única inspirada no estilo do Entire.io. Cria um layout elegante em blocos com hero, cards de valor, provas e CTA final, destacando o posicionamento de diretora de agentes inline.
