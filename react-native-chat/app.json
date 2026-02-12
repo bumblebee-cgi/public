@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bee Chat LLM",
+    "slug": "bee-chat-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "primaryColor": "#f06292",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
